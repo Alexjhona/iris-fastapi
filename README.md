@@ -133,3 +133,7 @@ También se incluye un `Dockerfile` para desplegar en cualquier plataforma con D
 ├── .gitignore               # archivos que no se suben (venv, model/, cache)
 └── .gitattributes           # protege el CSV de cambios de salto de línea
 ```
+
+## Autor
+
+Alexjhona
