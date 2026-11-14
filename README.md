@@ -2,7 +2,6 @@
 
 Despliegue mínimo de un modelo de Machine Learning (Random Forest) como API REST con **FastAPI**, documentada con **Swagger UI** y **Scalar**.
 
-- **Demo en línea:** `https://<tu-servicio>.onrender.com/docs`  ← reemplazar con tu URL de Render
 - **Modelo:** RandomForestClassifier (100 árboles, semilla 42)
 - **Datos:** Iris v1 (150 filas, 4 variables, 3 especies)
 - **Accuracy en test:** 0.90
@@ -34,8 +33,8 @@ Las librerías están **fijadas con versión exacta** en [`requirements.txt`](re
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
+git clone https://github.com/Alexjhona/iris-fastapi.git
+cd iris-fastapi
 
 # 2. Crear y activar un entorno virtual
 python -m venv venv
