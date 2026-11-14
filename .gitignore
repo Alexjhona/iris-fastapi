@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# El modelo se regenera con `python train.py` (no se sube a GitHub)
+model/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

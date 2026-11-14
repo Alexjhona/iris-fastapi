@@ -1,0 +1,2 @@
+# Evita que Git cambie los saltos de linea del CSV en Windows (cambiaria su hash)
+data/*.csv binary

@@ -1,0 +1,11 @@
+# Versiones fijadas para que el proyecto sea reproducible.
+# Probado con Python 3.13 y 3.14.
+fastapi==0.162.0
+uvicorn==0.52.4
+pydantic==2.14.3
+scikit-learn==1.8.0
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.1.1
+joblib==1.5.3
+scalar-fastapi==1.9.1

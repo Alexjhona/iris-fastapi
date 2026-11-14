@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "archivo": "iris_v1.csv",
+  "origen": "sklearn.datasets.load_iris (UCI Iris, Fisher 1936)",
+  "filas": 150,
+  "columnas": [
+    "sepal_length",
+    "sepal_width",
+    "petal_length",
+    "petal_width",
+    "species"
+  ],
+  "sha256": "9cc1c345c71bcc9b486b74cbf6063fa66f4bb5e0f603a4b3c3471ec2e5e8e355",
+  "fecha_creacion": "2026-11-13"
+}
