@@ -103,7 +103,9 @@ Respuesta:
 {"clase": "virginica", "probabilidades": {"setosa": 0.0, "versicolor": 0.0, "virginica": 1.0}}
 ```
 
-## 6. Despliegue en la nube (Render)
+## 6. Despliegue en la nube (opcional)
+
+El proyecto se ejecuta de forma local (sección 2). Si más adelante se quiere publicar en internet, ya está preparado para Render.
 
 El archivo [`render.yaml`](render.yaml) tiene la configuración. En Render:
 
